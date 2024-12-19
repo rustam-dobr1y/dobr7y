@@ -1,0 +1,184 @@
+*{
+    margin: 0;
+    padding: 0;
+    block-size: border-box;
+}
+.bot{
+    display: flex;
+    justify-content: center;
+}
+.doda1{
+    display: flex;
+    justify-content: center;
+}
+.doda2{
+    display: flex;
+    justify-content: center;
+}
+
+.ota1{
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+    align-items: start;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 8px;
+    gap: 8px;
+    margin-left: 40px;
+    margin-bottom: 67px;
+}
+.ota1{
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+    display: flex;
+    justify-content: start;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 8px;
+    gap: 8px;
+    margin-left: 40px;
+    margin-bottom: 67px;
+}
+.bola{
+    width: 50px;
+    height: 50px;
+    background-color: #F7941F;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+.bola2{
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+    display: flex;
+    justify-content: start;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 8px;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-left: 40px;
+    margin-bottom: 67px;
+}
+.bola3{
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 8px;
+    gap: 8px;
+    margin-left: 40px;
+    margin-bottom: 67px;
+}
+.bola4{
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+    display: flex;
+    justify-content: start;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 8px;
+    gap: 8px;
+    margin-bottom: 67px;
+    margin-left: 40px;
+}
+.bola5{
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+    display: flex;
+    justify-content: end;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 8px;
+    gap: 8px;
+    margin-left: 40px;
+    margin-bottom: 67px;
+}
+.bola6{
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 8px;
+    gap: 8px;
+    margin-left: 40px;
+    margin-bottom: 67px;
+}
+.bola7{
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 8px;
+    gap: 8px;
+    margin-left: 40px;
+    margin-bottom: 67px;
+}
+.bola8{
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+    display: flex;
+    justify-content: start;
+    
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 8px;
+    gap: 8px;
+    margin-left: 40px;
+    margin-bottom: 67px;
+}
+.bola9{
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+    display: flex;
+    justify-content: start;
+    align-items: end;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 8px;
+    gap: 8px;
+    margin-left: 40px;
+    margin-bottom: 67px;
+}
+.bola10{
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 8px;
+    gap: 8px;
+    margin-left: 40px;
+    margin-bottom: 67px;
+}
+.bola11{
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 8px;
+    gap: 8px;
+    margin-left: 40px;
+    margin-bottom: 67px;
+}
